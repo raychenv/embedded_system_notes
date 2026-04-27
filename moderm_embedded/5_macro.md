@@ -12,7 +12,7 @@
 4. 引入设备厂商头文件，让寄存器访问从“记地址”转为“读名字”。
 
 lesson 5 工程可参考：
-https://github.com/QuantumLeaps/modern-embedded-programming-course/tree/main/lesson-5
+https://github.com/QuantumLeaps/modern-embedded-programming-course/tree/main/lesson-05
 
 ## Lesson-05 源码变化（TM4C）
 
